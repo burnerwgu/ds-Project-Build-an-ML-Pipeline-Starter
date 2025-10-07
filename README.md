@@ -179,3 +179,11 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+## Submission links
+wandb:
+https://wandb.ai/dsavko-a/nyc_airbnb/reports/Submission--VmlldzoxNDY0MzI0NA
+
+GitHub:
+https://github.com/burnerwgu/ds-Project-Build-an-ML-Pipeline-Starter
